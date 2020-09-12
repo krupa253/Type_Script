@@ -1,0 +1,10 @@
+var a = 5, b = 10, c = "5";
+var result = a;
+console.log(a == b);
+console.log(a == result);
+console.log(a != b);
+console.log(a > b);
+console.log(a < b);
+console.log(a >= b);
+console.log(a <= b);
+// console.log( a === c );
